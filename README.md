@@ -1,7 +1,7 @@
 # PlayWord app implement using Trie DataStructure.
 
-This is four character exist english word game.Using Trie data structure for efficent match.
-Play this game have Fun :)
+This is a four character exist english word game. Using Trie data structure for efficent match.
+Play this game and have Fun :)
 
 | ![](/Screenshots/Now/1.png) | ![](/Screenshots/Now/2.png) | 
 |-----------------------------|-----------------------------|
@@ -12,7 +12,7 @@ Play this game have Fun :)
 
 
 How to Play?
-There is four key of charater and you have to press one by one any of them and make a valid word.<br>
+There are four keys of charater and you have to press one by one any of them and make a valid word.<br>
 [You can get here](https://github.com/jsroyal/PlayWord/releases/download/1.0.0/app-debug.apk)
 
 ## Running the tests
